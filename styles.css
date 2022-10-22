@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(140deg, #DA70D6, #AFEEEE, #ffef78) ;
+}
+.my-style-div {
+    color:red;
+    background:blue;
+}
+div {
+    color:brown;
+    background:yellow;
+}
+.accrodeon-header {
+    color:aliceblue;
+    background: linear-gradient(90deg,white, blue);
+    margin: 5px 0px 5px 0px;
+    border-radius: 16px 0% 0% 16px;
+    width: 100px;
+    display: inline-block;
+    float: left;  
+    text-align: center;
+
+}
+.accordeon-body-hide {
+    color:black;
+    background-color: tan;
+    display: none;
+    margin: 5px 5px 5px 5px;
+}
+.accordeon-body-show {
+    color:black;
+    background-color: tan;
+    display: block;
+    margin: 5px 5px 5px 5px;
+}
+.accordeon-status {
+    display: inline-block;
+    color:aliceblue;
+    border-radius: 0% 16px 16px 0%;
+    background: linear-gradient(90deg,blue, white );
+    text-align: center;
+    width: 100px;
+    margin: 5px 0px 5px 0px;
+}
