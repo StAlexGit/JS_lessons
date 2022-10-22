@@ -4,7 +4,6 @@ let result = document.getElementById('result');
 
 let money = document.getElementById('money');
 
-// let inputElts = document.getElementsByTagName('input');
 
 // for (const el of inputElts) {
 //     el.addEventListener('change', (ev) => {
